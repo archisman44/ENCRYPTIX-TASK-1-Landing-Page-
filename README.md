@@ -8,3 +8,9 @@ Batch Conversion: Convert multiple images at once.
 Download Converted Images: Easily download the converted images.
 User-Friendly Interface: Simple and intuitive design for ease of use.
 Fast and Reliable: Quick conversion with minimal load times.
+
+#ENCRYPTIX-TASK-2-Portfolio-Responsive-Complete-
+- Responsive Personal Portfolio Website HTML CSS & JavaScript.
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
