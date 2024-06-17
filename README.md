@@ -1,1 +1,1 @@
-# ENCRYPTIX-TASK-1(simple landing page)-TASK-2(demo portfolio page)-TASK-3(simple calculator)-TASK-4(tribute page)
+# ENCRYPTIX-TASK-1(Landing Page)-TASK-2(Portfolio Page)-TASK-3(Simple Calculator)-TASK-4(Tribute Page)
